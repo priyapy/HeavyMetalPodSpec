@@ -8,7 +8,7 @@ s.license          = 'MIT'
 s.source           = { :git => "git@github.com:priyapy/heavymetal.git",
 :tag => "1.0.0"
 }
-s.source_files =  'HeavyMetal/*/**','HeavyMetal/*/*/**'
+s.source_files =  'HeavyMetal/*/**','HeavyMetal/*/*/**','HeavyMetal/*/*/*/**.swift'
 s.platform     = :ios, '8.0'
 s.requires_arc = true
 s.dependency 'ObjectMapper', '~> 1.3'
