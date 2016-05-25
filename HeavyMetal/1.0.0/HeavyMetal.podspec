@@ -3,9 +3,9 @@ s.name             = "HeavyMetal"
 s.version          = "1.0.0"
 s.summary          = "Testing private pod"
 s.author           = { "Priya" => "priyap@qburst.com" }
-s.homepage         = "git@github.com:priyapy/heavymetal.git"
+s.homepage         = "https://github.com/fastretailing/heavymetal.git"
 s.license          = 'MIT'
-s.source           = { :git => "git@github.com:priyapy/heavymetal.git",
+s.source           = { :git => "https://github.com/fastretailing/heavymetal.git",
 :tag => "1.0.0"
 }
 s.source_files =  'HeavyMetal/*/**','HeavyMetal/*/*/**','HeavyMetal/*/*/*/**.swift'
